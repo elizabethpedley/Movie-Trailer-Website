@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-#Creating instances of the class Movie to store our movie data.
+# Creating instances of the class Movie to store our movie data.
 
 star_wars_the_last_jedi = media.Movie("Star Wars: The Last Jedi",
                                       "Rey continues her epic journey with Finn, Poe and Luke Skywalker in the next chapter of the saga.",
